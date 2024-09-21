@@ -35,5 +35,6 @@ Conclusiones:
 
 Licencia:
 
+- MIT License
 
 
