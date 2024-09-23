@@ -57,7 +57,17 @@ estacionamiento disponibles, cantidad de huéspedes adultos, niños y/o bebés, 
 
 Conclusiones:
 
-- 
+- El City Hotel es el tipo de alojamiento preferido, la demanda muestra un crecimiento hasta mediados de 2016, con picos de reserva en ciertos meses. Los meses de verano experimentan no solo alta demanda, sino también mayores tasas de cancelación. Las necesidades de estacionamiento son bajas, lo que sugiere que los hoteles pueden priorizar otras áreas de servicio.
+
+- Recomendaciones:
+
+Optimizar recursos en temporadas altas y ajustar tarifas durante los meses de menor demanda.
+
+Revisar políticas de cancelación especialmente en los meses de verano, ya que presentan las mayores tasas de cancelación.
+
+Considerar que, aunque el estacionamiento es valorado por algunos, la mayoría de los clientes no lo solicita, lo que permite a los hoteles enfocar recursos en otras áreas.
+
+Aumentar la promoción y campañas dirigidas a familias que viajan con niños, dada la moderada cantidad de reservas con este perfil.
 
 Licencia:
 
